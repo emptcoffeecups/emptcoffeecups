@@ -7,7 +7,7 @@
 
 - ☕ &nbsp; Did I mention we are addicted to coffee?
 - 💼 &nbsp; We are a big team, 6 mere humans and 8 kittens.
-- ⚒ &nbsp; Team formed by **Caio Cyrino, Ivanilson Ferreira, José Victor, Lucas Ramon, Lucineide Farias e Sebastião Leal**.
+- ⚒ &nbsp; Team formed by **Caio Cyrino, Ivanilson Ferreira, José Victor, Lucas Ramon, Lucineide Farias and Sebastião Leal**.
 
 <h3> :rocket: &nbsp;Our Development Stack </h3>
 
