@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=emptcoffeecups&color=006bed)
 
-<h3> :man: &nbsp;About Us </h3>
+<h3> 🐱‍🚀 &nbsp;About Us </h3>
 
 - ☕ &nbsp; Did I mention we are addicted to coffee?
 - 💼 &nbsp; We are a big team, 6 mere humans and 8 kittens.
